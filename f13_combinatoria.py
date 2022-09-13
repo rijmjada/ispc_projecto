@@ -10,7 +10,7 @@ def f13():
     len_rnd = len(lista_rnd)
     
     for i in range(0, len_rnd, 1):
-        for j in range(i, len_rnd, 1):
+        for j in range(i+1, len_rnd, 1):
             lista_sumas.append(Sumar(lista_rnd[i], lista_rnd[j]))
         
     return lista_sumas
