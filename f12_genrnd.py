@@ -5,8 +5,8 @@ from random import randint
 def genrnd():
     lista = []
     count = 5
-    
-    while(count > 1):
+        
+    while(count > 0):
         lista.append(randint(0, 100))
         count -= 1
         

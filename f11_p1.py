@@ -1,5 +1,4 @@
-"""11- función p1, retorna la resta de los 2 primero por el 3er parámetros, usando las funciones
-anteriores."""
+# 11- función p1, retorna la resta de los 2 primero por el 3er parámetros, usando las funciones anteriores.
 
 from f3_producto import Producto
 from f2_resta import Resta

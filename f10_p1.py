@@ -1,5 +1,4 @@
-"""10- función p1, retorna la suma de los 2 primero por el 3er parámetros, usando las
-funciones anteriores."""
+# 10- función p1, retorna la suma de los 2 primero por el 3er parámetros, usando las funciones anteriores.
 
 
 from f1_suma import Sumar

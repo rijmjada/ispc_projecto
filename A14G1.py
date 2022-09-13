@@ -1,4 +1,6 @@
+from http.client import SWITCHING_PROTOCOLS
 from os import system
+import sys
 from f10_p1 import p1_f10
 from f11_p1 import p1_f11
 from f9_p1 import p1_f9
@@ -10,6 +12,7 @@ from f4_cociente import Cociente
 from f5_modulo import Modulo
 from f6_potencia import Potencia
 from f12_genrnd import genrnd
+
 
 
 #region f1 Suma
