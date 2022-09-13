@@ -3,7 +3,7 @@
 from f12_genrnd import genrnd
 from f3_producto import Producto
 
-def f13():
+def f14():
     lista_sumas = []
     lista_rnd = genrnd()
     len_rnd = len(lista_rnd)
