@@ -7,4 +7,3 @@ def f21():
     lista.sort()
     return lista[len(lista)-1]
 
-print(f21())

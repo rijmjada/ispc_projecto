@@ -14,8 +14,3 @@ def f15():
         
     return lista_sumas
 
-print("# 15- función que devuelva el producto de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.")
-for item in (f15()):
-    print(item, end=" - ")
-    
-input(".")

@@ -4,7 +4,7 @@ from random import randint
 
 def genrnd():
     lista = []
-    count = 5
+    count = 50
         
     while(count > 0):
         lista.append(randint(0, 100))

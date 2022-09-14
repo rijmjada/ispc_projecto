@@ -13,4 +13,3 @@ def f16():
         acumulador = Sumar(acumulador,lista_rnd[i])
         
     return Cociente(acumulador,len_rnd)
-

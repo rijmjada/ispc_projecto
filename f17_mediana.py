@@ -16,8 +16,7 @@ def f17():
     else: # si el tamaño de la lista es impar el numero del centro representa la mediana
         mitad = int(len_lista / 2)
         mediana = lista_rnd[mitad]
-    
-        
+      
     return mediana
 
 
